@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate product guy from India</h3>
 <h4>I am a technology enthusiast and full-stack hacker. I primarily code in Javascript, Python and Dart. I have overseen multiple digital transformation projects and have 5+ years of product management experience. While you may not see a lot of work here since I contribute primarily to private repos, I do have some interesting projects to share.</h4>
 
 
